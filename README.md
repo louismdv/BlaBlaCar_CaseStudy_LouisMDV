@@ -29,6 +29,15 @@ And add your API key to it as below:
 ```bash    
     pip install -r requirements.txt
 ```
+
+To run the program just run:
+```bash
+    python route_tracer.py
+```
+You can input your own Bus stations with coordinates or use use the tester.py:
+```bash
+    python tester.py
+```
 That's it! Enjoy tracing Bus routes!
 
 Louis
