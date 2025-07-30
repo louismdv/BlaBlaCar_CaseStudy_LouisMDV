@@ -7,7 +7,7 @@ Here are the steps to follow to make the code executable:
 1. This python program uses the open routing service API so you will need to login to open routing service either using an account or your GitHub account.
 From there, you can get a free API key.
 Here is the link to their login page:
-    https://openrouteservice.org/log-in/
+    https://account.heigit.org/login
 Once logged-in click on your persona icon to get your API key. Once you have your key hold on to it!
 
 2. The next step will be creating a dot ENV file and add your API key to it as below:
