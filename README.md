@@ -8,20 +8,25 @@ Here are the steps to follow to make the code executable:
 From there, you can get a free API key.
 Here is the link to their login page:
     > https://account.heigit.org/login
-
 Once logged-in click on your persona icon to get your API key. Once you have your key hold on to it!
 
-2. The next step will be creating a dot .env file, and add your API key to the file as below:
-    > touch .env
-    > ORS_API_KEY = "api-key-here"
-
+2. The next step will be creating a dot .env file:
+```bash
+    touch .env
+```
+And add your API key to it as below:
+```bash
+    ORS_API_KEY = "api-key-here"
+```
 3. Now we need to create and activate a virtual environment to store all the packages we are going to use in this program:
-    > python3 -m venv venv
-    > source venv/bin/activate
-
+```bash
+    python3 -m venv venv
+    source venv/bin/activate
+```
 4. Once the venv is activated you can install the requirement packages for the program to run:
-    > pip install -r requirements.txt
-
+```bash    
+    pip install -r requirements.txt
+```
 That's it! Enjoy tracing Bus routes!
 
 Louis
