@@ -1,7 +1,7 @@
 import subprocess
 
 
-script_path = 'route_tracer.py'
+script_path = 'draw_route.py'
 
 valid1 = """Paris - Bercy seine bus station, 48.83568689, 2.380160747
 Lyon - Perrache bus station, 45.749711, 4.826788

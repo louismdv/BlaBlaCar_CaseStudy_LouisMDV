@@ -1,6 +1,6 @@
 # BlaBlaCar_CaseStudy_LouisMDV
 
-Thank you for taking the time to check my code. This repository is private and contains the subject and my code to trace Bus routes on an a map.
+Thank you for taking the time to check my code. This repository is private and contains the subject and my code to draw Bus routes on an a map.
 
 Here are the steps to follow to make the code executable:
 
@@ -32,7 +32,7 @@ And add your API key to it as below:
 
 To run the program just run:
 ```bash
-    python route_tracer.py
+    python draw_route.py
 ```
 You can input your own Bus stations with coordinates or use use the tester.py:
 ```bash

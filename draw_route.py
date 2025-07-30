@@ -1,4 +1,4 @@
-import folium  # used to trace route on map
+import folium  # used to draw route on map
 from folium import Marker, PolyLine
 
 from selenium import webdriver  # used to generate map screenshot from html file
